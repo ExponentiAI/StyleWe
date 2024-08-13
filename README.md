@@ -1,6 +1,4 @@
 # StyleWe
-## Dataset
-Dataset：https://drive.google.com/drive/folders/1GB6ZiTfRW7otfPc4GNCwOZsJWJeUWI82?usp=sharing  
 ## Sketch generation and GAN compression
 The sketch generation and GAN compression can refer to the folder: "sketch generation".  
 ## Style fusion based on Federated Learning
