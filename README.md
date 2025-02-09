@@ -10,7 +10,17 @@ You can find the [Demo Video](https://youtu.be/OOTXs0Ws8vE).
 ***
 
 The key modules in our framework are presented as follows：
-## Sketch generation and GAN compression
-The sketch generation and GAN compression can refer to the folder: "sketch generation".  
+##  Sketch generation and GAN compression
+<div align=center><img src="./fig/FL.png" width = 90%></div>
+
+<br>
+
+🧩 Please refer to the (./sketch generation/) 
+
 ## Style fusion based on Federated Learning
-The Federated learning-based style fusion code can refer to the folder: "style fusion_FL", which consists of the cloud server's code and the edge client's code.
+<div align=center><img src="./fig/gan.png" width = 90%></div>
+
+<br>
+
+🧩 Please refer to the (./style fusion_FL/) 
+
