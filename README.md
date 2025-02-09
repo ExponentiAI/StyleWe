@@ -15,12 +15,13 @@ The key modules in our framework are presented as follows：
 
 <br>
 
-🧩 Please refer to the (./sketch generation/) 
+🧩 Please refer to the [sketch generation](./sketch generation/)
+
 
 ## Style fusion based on Federated Learning
 <div align=center><img src="./fig/gan.png" width = 90%></div>
 
 <br>
 
-🧩 Please refer to the (./style fusion_FL/) 
+🧩 Please refer to the [style fusion_FL](./style fusion_FL/) 
 
