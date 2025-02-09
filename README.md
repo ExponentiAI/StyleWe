@@ -1,6 +1,15 @@
 # StyleWe
-## Dataset
-Dataset：https://drive.google.com/drive/folders/1GB6ZiTfRW7otfPc4GNCwOZsJWJeUWI82?usp=sharing  
+## 🖼️ Framework
+
+<div align=center><img src="./fig/stylewe.png" width = 90%></div>
+
+<br>
+
+You can find the [Demo Video](https://youtu.be/OOTXs0Ws8vE).
+
+***
+
+The key modules in our framework are presented as follows：
 ## Sketch generation and GAN compression
 The sketch generation and GAN compression can refer to the folder: "sketch generation".  
 ## Style fusion based on Federated Learning
