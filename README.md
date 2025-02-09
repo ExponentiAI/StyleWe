@@ -1,4 +1,6 @@
-# StyleWe
+# StyleWe: Towards StyleFusion in Generative Fashion Design with Eficient Federated Al
+## 🖼️ Framework
+
 ## Sketch generation and GAN compression
 The sketch generation and GAN compression can refer to the folder: "sketch generation".  
 ## Style fusion based on Federated Learning
