@@ -26,7 +26,7 @@ The key modules in our framework are presented as follows：
 🧩 Please refer to the [styleFL](./styleFL/) 
 
 ## 📜 Reference
-If you find our code for your research, please cite our work. Thank you. 🥰🥰
+If you find our code useful for your research, please cite our work. Thank you. 🥰🥰
 ```yaml
 @article{wu2024stylewe,
   title={StyleWe: Towards Style Fusion in Generative Fashion Design with Efficient Federated AI},
